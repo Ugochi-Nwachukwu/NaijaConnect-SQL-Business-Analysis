@@ -1,5 +1,6 @@
 # NaijaConnect-SQL-Business-Analysis
 SQL business analysis of NaijaConnect telecom data — uncovering customer demographics, subscription trends, payment methods, and revenue insights with actionable recommendations.
+
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Analysis Overview](#analysis-overview)
@@ -8,21 +9,8 @@ SQL business analysis of NaijaConnect telecom data — uncovering customer demog
 - [Skills Demonstrated](#skills-demonstrated)
 - [Recommendation](#recommendation)
 - [Conclusion](#conclusion)
-Problem Statement
 
-Analysis Overview
-
-Data Source
-
-Data Processing
-
-Skills Demonstrated
-
-Recommendation
-
-Conclusion
-
-Problem Statement
+## Problem Statement
 In today’s competitive telecom environment, companies generate large volumes of transactional data daily, yet many struggle to extract meaningful insights that guide strategic decisions. NaijaConnect lacked visibility into customer demographics, revenue drivers, and subscription trends.
 
 Analysis Overview
