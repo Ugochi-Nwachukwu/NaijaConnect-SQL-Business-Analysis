@@ -44,7 +44,7 @@ The dataset was imported into SQL. It contains customer details, subscription pl
 
 ## Insights
 
-What is the average age per subscription plan?  
+📍 What is the average age per subscription plan?  
 
 <img width="581" height="305" alt="image" src="https://github.com/user-attachments/assets/16002225-17d3-4dab-9185-ffa93e7dd792" />
 
@@ -53,7 +53,7 @@ Premium subscribers tend to be older, while Standard and Basic plans attract rel
 Business Implication:  NaijaConnect can use this insight to tailor marketing campaigns by age group. Premium plans may be better promoted with value‑added services appealing to older professionals, while Standard and Basic plans can be positioned for younger, cost‑sensitive customers.
 
 
-Which regions generate the most revenu
+📍 Which regions generate the most revenue?
 
 <img width="622" height="345" alt="image" src="https://github.com/user-attachments/assets/82d20394-489d-49cf-ac02-9f6a18bf37c8" />
 
@@ -62,44 +62,39 @@ North West (NW) region generates the highest revenue while North Central (NC) re
 Business Implication:  
 NaijaConnect can use this insight to prioritize investment and marketing efforts in high‑revenue regions like NW and SW, ensuring infrastructure and customer support are strengthened where demand is highest. At the same time, the lower‑performing regions (NC and SE) may require targeted promotions, localized campaigns, or improved service delivery to boost revenue contribution.
 
+📍Which subscription plan contributes the most revenue? 
 
-Gender distribution across plans  
-Why: Guides targeted campaigns (e.g., Premium skewing male/female).
+<img width="776" height="316" alt="image" src="https://github.com/user-attachments/assets/65dc23fb-73c2-4b43-a7fa-8c216081eaac" />
 
-💰 Revenue Drivers
-Which subscription plan contributes the most revenue?  
-Why: Identifies the most profitable plan for pricing and promotions.
+This result shows that premium customers are is driving financial performance. with this, Naijaconnect would avoid spreading resources too thin or misallocate them.
 
-Top 10 highest‑paying customers  
-Why: Useful for loyalty programs and retention strategies.
+Business Implication: Since Premium generates the bulk of revenue, NaijaConnect should prioritize maintaining and enhancing Premium features to keep high‑value customers satisfied.
 
+For Standard or Basic plans, management can investigate whether pricing, features, or marketing need adjustment. Understanding revenue distribution across plans prevents over‑reliance on one plan and encourages diversification.
 
+📍 Who are the Top 10 highest‑paying customers  
+<img width="784" height="375" alt="image" src="https://github.com/user-attachments/assets/9ba729c3-43a0-40fd-beaf-f3be2cfa0b90" />
 
+This query identifies the top 10 customers who have generated the highest single payments or revenues. It combines customer details (name, state, plan type) with subscription revenue to highlight the individuals who contribute most financially to NaijaConnect.
 
-Revenue by payment method  
-Why: Shows customer preferences (Card vs USSD vs Transfer), guiding fintech partnerships.
-
-📈 Subscription Trends
-Do Premium customers use more data/voice than Standard/Basic?  
-Why: Validates whether higher fees match higher usage.
-
-Correlation between calls/SMS and revenue  
-Why: Identifies which service (data, calls, SMS) drives income.
-
-🔄 Customer Lifecycle
-Churn rate by plan type
+Business Implication:  Knowing who the highest‑paying customers are allows NaijaConnect to design loyalty programs, personalized offers, and premium support services tailored to these valuable clients. Retaining them is critical because losing even a few high‑value customers could significantly impact overall revenue. Additionally, analyzing their demographics and plan choices can guide marketing strategies to attract similar high‑value profiles in other regions.
 
 
-Churn rate by plan type  
-Why: Shows which plans lose customers fastest, guiding retention.
+📍What is the churn rate by subscription plan?
 
-Active vs suspended vs churned customers  
-Why: Provides a health check of the customer base.
+<img width="784" height="317" alt="image" src="https://github.com/user-attachments/assets/b1a4e4ab-c3a2-4647-8a48-8ac12ed34943" />
 
-Join date trends  
-Why: Reveals peak subscription months, useful for forecasting.
+The results show that Basic and Premium plans have the highest churn rates, while Standard plans perform slightly better in retaining customers.
 
+Business Implication:  High churn rates indicate dissatisfaction or weak value perception among customers. For NaijaConnect, this insight highlights the need to investigate why customers are leaving — whether due to pricing, service quality, or competition. Management can use this information to redesign plan features, improve customer support, or introduce loyalty incentives. Reducing churn is critical because retaining existing customers is often more cost‑effective than acquiring new ones.
 
+📍 What are the subscription join date trends for both customer count and revenue?
+
+<img width="785" height="364" alt="image" src="https://github.com/user-attachments/assets/f04fefa1-589a-4384-8e0a-70847dc22691" />
+
+This query shows both the number of customers who joined each month and the total revenue they generated. February stands out as the top month for both customer acquisition and revenue, confirming it as a peak period for NaijaConnect.
+
+Business Implication: By combining customer count and revenue, NaijaConnect gains a complete picture of seasonal performance. February’s dominance suggests that campaigns, promotions, or external factors in that month drive both sign‑ups and spending. Management can use this insight to Forecast demand and revenue more accurately, Replicate February’s success in weaker months through targeted promotions and Align marketing and infrastructure planning with peak periods to maximize growth.
 
 
 ## Skills Demonstrated
@@ -112,7 +107,16 @@ Why: Reveals peak subscription months, useful for forecasting.
 • Critical Thinking and Problem-Solving: Solving business problems by using the right functions to query data.
 
 ## Recommendation
-Focus marketing efforts on Premium subscribers, expand infrastructure in NW and SW regions, and design youth‑focused campaigns for Standard/Basic plans.
+• Focus investment and customer support in high‑revenue regions (NW, SW). Launch localized promotions in weaker regions (NC, SE) to boost adoption.
+ 
+• Protect Premium customers with loyalty programs and enhanced features since they drive most revenue. Investigate churn in Basic plans and adjust pricing or features to improve retention.
+ 
+• Retain high‑value customers with premium support and exclusive benefits. Use their demographics and plan choices to attract similar profiles in other regions.
+
+•Introduce incentives for churn‑prone plans. Monitor suspended accounts closely to prevent churn. Focus on retention since keeping existing customers is more cost‑effective than acquiring new ones.
+
+•Replicate February’s success in weaker months through targeted promotions. Align marketing and infrastructure planning with peak periods to maximize growth.
+
 
 ## Conclusion
 This project demonstrates how SQL can transform raw telecom data into actionable insights, guiding NaijaConnect’s strategy for customer growth and revenue optimization.
