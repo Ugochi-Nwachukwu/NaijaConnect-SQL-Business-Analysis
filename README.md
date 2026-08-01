@@ -52,6 +52,17 @@ Premium subscribers tend to be older, while Standard and Basic plans attract rel
 
 Business Implication:  NaijaConnect can use this insight to tailor marketing campaigns by age group. Premium plans may be better promoted with value‑added services appealing to older professionals, while Standard and Basic plans can be positioned for younger, cost‑sensitive customers.
 
+
+Which regions generate the most revenu
+
+<img width="622" height="345" alt="image" src="https://github.com/user-attachments/assets/82d20394-489d-49cf-ac02-9f6a18bf37c8" />
+
+North West (NW) region generates the highest revenue while North Central (NC) region contributes the least.
+
+Business Implication:  
+NaijaConnect can use this insight to prioritize investment and marketing efforts in high‑revenue regions like NW and SW, ensuring infrastructure and customer support are strengthened where demand is highest. At the same time, the lower‑performing regions (NC and SE) may require targeted promotions, localized campaigns, or improved service delivery to boost revenue contribution.
+
+
 Gender distribution across plans  
 Why: Guides targeted campaigns (e.g., Premium skewing male/female).
 
@@ -62,8 +73,7 @@ Why: Identifies the most profitable plan for pricing and promotions.
 Top 10 highest‑paying customers  
 Why: Useful for loyalty programs and retention strategies.
 
-Which regions generate the most revenue?  
-Why: Helps management decide where to expand infrastructure or marketing.
+
 
 
 Revenue by payment method  
