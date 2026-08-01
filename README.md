@@ -119,7 +119,4 @@ Business Implication: By combining customer count and revenue, NaijaConnect gain
 
 
 ## Conclusion
-This project demonstrates how SQL can transform raw telecom data into actionable insights, guiding NaijaConnect’s strategy for customer growth and revenue optimization.
-
-
-Highlighting seasonal trends in customer activity.
+This project demonstrates how SQL can transform raw telecom data into actionable insights, guiding NaijaConnect’s strategy for customer growth and revenue optimization.lighting seasonal trends in customer activity.
