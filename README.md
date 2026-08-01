@@ -59,8 +59,8 @@ Business Implication:  NaijaConnect can use this insight to tailor marketing cam
 
 North West (NW) region generates the highest revenue while North Central (NC) region contributes the least.
 
-Business Implication:  
-NaijaConnect can use this insight to prioritize investment and marketing efforts in high‑revenue regions like NW and SW, ensuring infrastructure and customer support are strengthened where demand is highest. At the same time, the lower‑performing regions (NC and SE) may require targeted promotions, localized campaigns, or improved service delivery to boost revenue contribution.
+Business Implication: NaijaConnect can use this insight to prioritize investment and marketing efforts in high‑revenue regions like NW and SW, ensuring infrastructure and customer support are strengthened where demand is highest. At the same time, the lower‑performing regions (NC and SE) may require targeted promotions, localized campaigns, or improved service delivery to boost revenue contribution.
+
 
 📍Which subscription plan contributes the most revenue? 
 
@@ -69,13 +69,13 @@ NaijaConnect can use this insight to prioritize investment and marketing efforts
 This result shows that premium customers are is driving financial performance. with this, Naijaconnect would avoid spreading resources too thin or misallocate them.
 
 Business Implication: Since Premium generates the bulk of revenue, NaijaConnect should prioritize maintaining and enhancing Premium features to keep high‑value customers satisfied.
+Then for Standard or Basic plans, management can investigate whether pricing, features, or marketing need adjustment. Understanding revenue distribution across plans prevents over‑reliance on one plan and encourages diversification.
 
-For Standard or Basic plans, management can investigate whether pricing, features, or marketing need adjustment. Understanding revenue distribution across plans prevents over‑reliance on one plan and encourages diversification.
 
 📍 Who are the Top 10 highest‑paying customers  
 <img width="784" height="375" alt="image" src="https://github.com/user-attachments/assets/9ba729c3-43a0-40fd-beaf-f3be2cfa0b90" />
 
-This query identifies the top 10 customers who have generated the highest single payments or revenues. It combines customer details (name, state, plan type) with subscription revenue to highlight the individuals who contribute most financially to NaijaConnect.
+This query identifies the top 10 customers who contribute most financially to NaijaConnect.
 
 Business Implication:  Knowing who the highest‑paying customers are allows NaijaConnect to design loyalty programs, personalized offers, and premium support services tailored to these valuable clients. Retaining them is critical because losing even a few high‑value customers could significantly impact overall revenue. Additionally, analyzing their demographics and plan choices can guide marketing strategies to attract similar high‑value profiles in other regions.
 
@@ -86,7 +86,7 @@ Business Implication:  Knowing who the highest‑paying customers are allows Nai
 
 The results show that Basic and Premium plans have the highest churn rates, while Standard plans perform slightly better in retaining customers.
 
-Business Implication:  High churn rates indicate dissatisfaction or weak value perception among customers. For NaijaConnect, this insight highlights the need to investigate why customers are leaving — whether due to pricing, service quality, or competition. Management can use this information to redesign plan features, improve customer support, or introduce loyalty incentives. Reducing churn is critical because retaining existing customers is often more cost‑effective than acquiring new ones.
+Business Implication:  High churn rates indicate dissatisfaction or weak value perception among customers. For NaijaConnect, this insight highlights the need to investigate why customers are leaving, it could be due to pricing, service quality, or competition. Management can use this information to redesign plan features, improve customer support, or introduce loyalty incentives. Reducing churn is critical because retaining existing customers is often more cost‑effective than acquiring new ones.
 
 📍 What are the subscription join date trends for both customer count and revenue?
 
@@ -113,15 +113,13 @@ Business Implication: By combining customer count and revenue, NaijaConnect gain
  
 • Retain high‑value customers with premium support and exclusive benefits. Use their demographics and plan choices to attract similar profiles in other regions.
 
-•Introduce incentives for churn‑prone plans. Monitor suspended accounts closely to prevent churn. Focus on retention since keeping existing customers is more cost‑effective than acquiring new ones.
+• Introduce incentives for churn‑prone plans. Monitor suspended accounts closely to prevent churn. Focus on retention since keeping existing customers is more cost‑effective than acquiring new ones.
 
-•Replicate February’s success in weaker months through targeted promotions. Align marketing and infrastructure planning with peak periods to maximize growth.
+• Replicate February’s success in weaker months through targeted promotions. Align marketing and infrastructure planning with peak periods to maximize growth.
 
 
 ## Conclusion
 This project demonstrates how SQL can transform raw telecom data into actionable insights, guiding NaijaConnect’s strategy for customer growth and revenue optimization.
 
-
-Analyzing regional revenue distribution.
 
 Highlighting seasonal trends in customer activity.
