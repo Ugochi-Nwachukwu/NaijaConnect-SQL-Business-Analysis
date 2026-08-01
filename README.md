@@ -34,36 +34,22 @@ The dataset was imported into SQL. It contains customer details, subscription pl
 
 <img width="646" height="194" alt="image" src="https://github.com/user-attachments/assets/d86f535f-7b1e-4d92-9235-2d4e1d0e6d9d" />
 
+
 • The cleaned dataset was then imported into SQL for further transformation and analysis.
+
 
 • Removing null values
 
 <img width="656" height="191" alt="image" src="https://github.com/user-attachments/assets/be9ec500-1ef2-40f3-8288-1276fd0840cb" />
 
+## Insights
 
-
-
-
-
-Insights Section (Q1–Q15 + Bonus)
-For each question:
-
-Business Question (in question format).
-
-SQL Query (in a code block).
-
-Results Table (markdown table or screenshot).
-
-Business Insight (2–3 sentences).
-
-Recommendation (2–3 sentences).
 
 ## Skills Demonstrated
-• Joins
-• Aggregations (SUM, AVG, MAX, MIN)
-• Group By
-• Case Statements
-• Common Table Expressions (CTEs)
+• Data Transformation and Extraction: Transforming data in SQL
+• Data Processing and Cleaning: Correcting errors and inconsistencies in data using SQL
+• Data Analysis: Gaining comprehensive insights by handling exploratory analysis on the dataset.
+• Critical Thinking and Problem-Solving: Solving business problems by using the right functions to query data.
 
 ## Recommendation
 Focus marketing efforts on Premium subscribers, expand infrastructure in NW and SW regions, and design youth‑focused campaigns for Standard/Basic plans.
